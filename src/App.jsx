@@ -25,15 +25,15 @@ import "./styles.css";
  * but its stupid that you dont have a resume make one ASAP
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Saad Hussain",
+  title: "CS Freshmen and Coding Enthusiast",
+  email: "k230705@nu.edu.pk",
+  gitHub: "SaadHusayn",
+  instagram: "",
+  linkedIn: "saad-hussain-b55171203",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "NotXaaD",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
